@@ -1,4 +1,4 @@
-=>
+=> index.html contains : navbar and page 1
 
 Loco motive js library { scroll }
 

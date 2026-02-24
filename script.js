@@ -1,5 +1,6 @@
 
 document.addEventListener("DOMContentLoaded", () => {
+
   loadHTML("footer", "Footer.html");
   loadHTML("page2", "page2.html");
   loadHTML("page3","page3.html");
